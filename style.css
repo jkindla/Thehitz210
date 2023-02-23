@@ -258,7 +258,7 @@ font-family: 'Comfortaa', cursive;
   .portfolio {
     text-align:center;
     line-height:2;
-    background:black;
+    background:white;
 
   }
 
@@ -266,7 +266,7 @@ font-family: 'Comfortaa', cursive;
 
 
 #songlist {
-  background: white;
+  background: #f1f1f1;
 }
 
 
