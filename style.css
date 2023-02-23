@@ -104,7 +104,7 @@ font-family: 'Comfortaa', cursive;
     padding:150px 0;
   }
   .hero-banner{
-  background-image: url('/pictures/Screen\ Shot\ 2022-12-28\ at\ 11.34.08\ PM.png'); 
+  background-image: url('pictures/Screen\ Shot\ 2022-12-28\ at\ 11.34.08\ PM.png'); 
     background-size: cover;
     height:100vh;
     display:flex;
